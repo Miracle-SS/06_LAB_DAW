@@ -126,7 +126,7 @@ La base de datos fue implementada y administrada mediante Supabase utilizando Po
 
 ### Consulta SQL JOIN
 
-![JOIN Query](images/query-join.png)
+![JOIN Query](images/query_join.png)
 
 ---
 
