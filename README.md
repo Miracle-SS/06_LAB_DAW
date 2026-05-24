@@ -186,5 +186,5 @@ El proyecto contiene:
 Agregar aquí el enlace del video explicativo:
 
 ```text
-https://...
+https://youtu.be/oozqMKgewNs
 ```
