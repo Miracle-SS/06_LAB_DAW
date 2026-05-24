@@ -100,10 +100,6 @@ La base de datos fue implementada y administrada mediante Supabase utilizando Po
 
 ![Supabase Overview](images/supabase_overview.png)
 
-### Código SQL principal
-
-![Main SQL](images/main_sql.png)
-
 ### Tabla users
 
 ![Users Table](images/users_table.png)
@@ -130,7 +126,7 @@ La base de datos fue implementada y administrada mediante Supabase utilizando Po
 
 ### Consulta SQL JOIN
 
-![JOIN Query](images/query_join.png)
+![JOIN Query](images/query-join.png)
 
 ---
 
@@ -170,7 +166,7 @@ JOIN products ON order_details.product_id = products.id;
 
 # Conclusiones
 
-El desarrollo del laboratorio permitió comprender la importancia del diseño de bases de datos relacionales utilizando modelos DER y PostgreSQL. Asimismo, Supabase facilitó la implementación y administración de la base de datos en la nube mediante herramientas modernas y eficientes.
+El desarrollo del laboratorio me permitió comprender la importancia del diseño de bases de datos relacionales utilizando modelos DER y PostgreSQL. Asimismo, Supabase facilitó la implementación y administración de la base de datos en la nube mediante herramientas modernas y eficientes.
 
 ---
 
