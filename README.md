@@ -170,7 +170,7 @@ JOIN products ON order_details.product_id = products.id;
 
 # Conclusiones
 
-El desarrollo del laboratorio permitió comprender la importancia del diseño de bases de datos relacionales utilizando modelos DER y PostgreSQL. Asimismo, Supabase facilitó la implementación y administración de la base de datos en la nube mediante herramientas modernas y eficientes.
+El desarrollo del laboratorio me permitió comprender la importancia del diseño de bases de datos relacionales utilizando modelos DER y PostgreSQL. Asimismo, Supabase facilitó la implementación y administración de la base de datos en la nube mediante herramientas modernas y eficientes.
 
 ---
 
